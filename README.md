@@ -30,6 +30,7 @@ This Turborepo has some additional tools already setup for you:
 - [Prettier](https://prettier.io) for code formatting
 - [TailwindCSS](https://tailwindcss.com/) for styling
 - [Zod](https://zod.dev/) for validation
+- [React Query](https://tanstack.com/query/latest) for data fetching
 
 ### Build
 
