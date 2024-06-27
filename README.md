@@ -31,7 +31,6 @@ This Turborepo has some additional tools already setup for you:
 - [TailwindCSS](https://tailwindcss.com/) for styling
 - [Zod](https://zod.dev/) for validation
 - [React Query](https://tanstack.com/query/latest) for data fetching on the client
-- [TRPC](https://trpc.io/) adds a type-safe API layer to the application
 
 ### Build
 
